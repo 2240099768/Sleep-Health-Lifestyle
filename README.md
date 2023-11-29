@@ -1,16 +1,16 @@
 # Sleep-Health-Lifestyle
-About Dataset
+**About Dataset**
 
-Dataset Overview:
+**Dataset Overview:**
 The Sleep Health and Lifestyle Dataset comprises 400 rows and 13 columns, covering a wide range of variables related to sleep and daily habits. It includes details such as gender, age, occupation, sleep duration, quality of sleep, physical activity level, stress levels, BMI category, blood pressure, heart rate, daily steps, and the presence or absence of sleep disorders.
 
-Key Features of the Dataset:
+**Key Features of the Dataset:**
 Comprehensive Sleep Metrics: Explore sleep duration, quality, and factors influencing sleep patterns.
 Lifestyle Factors: Analyze physical activity levels, stress levels, and BMI categories.
 Cardiovascular Health: Examine blood pressure and heart rate measurements.
 Sleep Disorder Analysis: Identify the occurrence of sleep disorders such as Insomnia and Sleep Apnea.
 
-Dataset Columns:
+**Dataset Columns:**
 Person ID: An identifier for each individual.
 Gender: The gender of the person (Male/Female).
 Age: The age of the person in years.
@@ -25,7 +25,7 @@ Heart Rate (bpm): The resting heart rate of the person in beats per minute.
 Daily Steps: The number of steps the person takes per day.
 Sleep Disorder: The presence or absence of a sleep disorder in the person (None, Insomnia, Sleep Apnea).
 
-Details about Sleep Disorder Column:
+**Details about Sleep Disorder Column:**
 
 None: The individual does not exhibit any specific sleep disorder.
 Insomnia: The individual experiences difficulty falling asleep or staying asleep, leading to inadequate or poor-quality sleep.
